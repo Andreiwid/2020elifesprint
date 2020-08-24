@@ -15,7 +15,7 @@ urlid | An identity of each URL in the data collection
 **url** | **The endpoint of data portal in the form of URL**
 domain | The domain return by Python3 *urllib* library - sometimes it is different from URL. Please, consider URL 
 **platform** | **The identified open data software platform. See table below for the eight considered ones**
-dataset_total | Number os datasets inside the data portal
+**dataset_total** | **Number os datasets inside the data portal**
 domain_country | The returned country obtained by ccTLD - method 1
 ip_country | The returned country obtained by IP - method 2
 **country_name** | **The considered country according to the method that worked (method 1 or 2)**
@@ -23,7 +23,7 @@ country_alpha-2_code | The standardized ISO 3166-1 country codes (see https://en
 root_domain | The root domain of data portal
 rank | Indicates if the data portal is duplicated within datasets. Discard Rank > 1 for nonduplicated result
 
-Values in **bold** indicate the most important information that users usually need.
+Values in **bold** indicate the most important information that users are interested in.
 
 ## Identified open data software platforms
 
