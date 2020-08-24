@@ -13,15 +13,15 @@ datetime | The timestamp of data collection
 depth | The depth of the URL (usually ZERO for domain level)
 urlid | An identity of each URL in the data collection
 **url** | **The endpoint of data portal in the form of URL**
-domain | The domain return by urllib - sometimes it is different from URL. Please, consider URL 
-**platform** | **The identified open data software platform. See table below for the 8 considered ones**
+domain | The domain return by Python3 *urllib* library - sometimes it is different from URL. Please, consider URL 
+**platform** | **The identified open data software platform. See table below for the eight considered ones**
 dataset_total | Number os datasets inside the data portal
 domain_country | The returned country obtained by ccTLD - method 1
 ip_country | The returned country obtained by IP - method 2
-**country_name** | **The considered country according the method that worked**
+**country_name** | **The considered country according to the method that worked (method 1 or 2)**
 country_alpha-2_code | The standardized ISO 3166-1 country codes (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 root_domain | The root domain of data portal
-rank | Indicates if the data portal is duplicated within datasets (whether > 1)
+rank | Indicates if the data portal is duplicated within datasets. Discard Rank > 1 for nonduplicated result
 
 Values in **bold** indicate the most important information that users usually need.
 
@@ -37,4 +37,3 @@ N# | Platform | Link for information
 6 | uData | https://pypi.org/project/udata/
 7 | Junar | https://www.junar.com/ https://junar.github.io/docs/en/_sections/01-index.html
 8 | PublishMyData | https://www.swirrl.com/
-
