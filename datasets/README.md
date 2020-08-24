@@ -22,3 +22,17 @@ country_name | The considered country according the method that worked
 country_alpha-2_code | The standardized ISO 3166-1 country codes (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 root_domain | The root domain of data portal
 rank | Indicates if the data portal is duplicated within datasets (whether > 1)
+
+## Identified open data software platforms
+
+N# | Platform | Link for information
+-- | -------- | --------------------
+1 | CKAN | https://docs.ckan.org/
+2 | DKAN | https://dkan.readthedocs.io/en/latest/admin/
+3 | Socrata | https://dev.socrata.com/
+4 | OpenDataSoft | https://data.opendatasoft.com/api/v2/console
+5 | ArcGIS Open Data | https://www.esri.com/en-us/arcgis/products/arcgis-open-data | https://akharris.github.io/arc-swag
+6 | uData | https://pypi.org/project/udata/
+7 | Junar | https://www.junar.com/ https://junar.github.io/docs/en/_sections/01-index.html
+8 | PublishMyData | https://www.swirrl.com/
+
