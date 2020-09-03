@@ -1,0 +1,412 @@
+[
+ {
+   "code": "AE",
+   "z": 2,
+   "datasets": 4312
+ },
+ {
+   "code": "AF",
+   "z": 2,
+   "datasets": 322
+ },
+ {
+   "code": "AL",
+   "z": 2,
+   "datasets": 1743
+ },
+ {
+   "code": "AR",
+   "z": 60,
+   "datasets": 10763
+ },
+ {
+   "code": "AT",
+   "z": 2,
+   "datasets": 876
+ },
+ {
+   "code": "AU",
+   "z": 15,
+   "datasets": 31442
+ },
+ {
+   "code": "BE",
+   "z": 11,
+   "datasets": 3467
+ },
+ {
+   "code": "BR",
+   "z": 67,
+   "datasets": 75847
+ },
+ {
+   "code": "CA",
+   "z": 59,
+   "datasets": 61121
+ },
+ {
+   "code": "CH",
+   "z": 9,
+   "datasets": 7916
+ },
+ {
+   "code": "CL",
+   "z": 6,
+   "datasets": 5403
+ },
+ {
+   "code": "CN",
+   "z": 1,
+   "datasets": 184
+ },
+ {
+   "code": "CO",
+   "z": 14,
+   "datasets": 41611
+ },
+ {
+   "code": "CR",
+   "z": 2,
+   "datasets": 78
+ },
+ {
+   "code": "CY",
+   "z": 3,
+   "datasets": 12012
+ },
+ {
+   "code": "CZ",
+   "z": 10,
+   "datasets": 911
+ },
+ {
+   "code": "DE",
+   "z": 76,
+   "datasets": 124912
+ },
+ {
+   "code": "DK",
+   "z": 5,
+   "datasets": 4409
+ },
+ {
+   "code": "DO",
+   "z": 1,
+   "datasets": 801
+ },
+ {
+   "code": "EC",
+   "z": 1,
+   "datasets": 128
+ },
+ {
+   "code": "ES",
+   "z": 39,
+   "datasets": 12270
+ },
+ {
+   "code": "FI",
+   "z": 4,
+   "datasets": 150
+ },
+ {
+   "code": "FR",
+   "z": 165,
+   "datasets": 146224
+ },
+ {
+   "code": "GB",
+   "z": 6,
+   "datasets": 3651
+ },
+ {
+   "code": "GE",
+   "z": 1,
+   "datasets": 112
+ },
+ {
+   "code": "GH",
+   "z": 2,
+   "datasets": 1228
+ },
+ {
+   "code": "GR",
+   "z": 18,
+   "datasets": 35997
+ },
+ {
+   "code": "GT",
+   "z": 3,
+   "datasets": 82
+ },
+ {
+   "code": "HK",
+   "z": 1,
+   "datasets": 513
+ },
+ {
+   "code": "HR",
+   "z": 2,
+   "datasets": 186
+ },
+ {
+   "code": "HU",
+   "z": 2,
+   "datasets": 114
+ },
+ {
+   "code": "ID",
+   "z": 31,
+   "datasets": 175517
+ },
+ {
+   "code": "IE",
+   "z": 43,
+   "datasets": 82469
+ },
+ {
+   "code": "IL",
+   "z": 2,
+   "datasets": 5368
+ },
+ {
+   "code": "IO",
+   "z": 11,
+   "datasets": 88485
+ },
+ {
+   "code": "IT",
+   "z": 67,
+   "datasets": 168667
+ },
+ {
+   "code": "JE",
+   "z": 2,
+   "datasets": 182
+ },
+ {
+   "code": "JM",
+   "z": 2,
+   "datasets": 540
+ },
+ {
+   "code": "JP",
+   "z": 38,
+   "datasets": 314442
+ },
+ {
+   "code": "KG",
+   "z": 1,
+   "datasets": 644
+ },
+ {
+   "code": "KR",
+   "z": 1,
+   "datasets": 713
+ },
+ {
+   "code": "KW",
+   "z": 1,
+   "datasets": 87
+ },
+ {
+   "code": "LC",
+   "z": 1,
+   "datasets": 211
+ },
+ {
+   "code": "LK",
+   "z": 3,
+   "datasets": 7
+ },
+ {
+   "code": "LT",
+   "z": 1,
+   "datasets": 813
+ },
+ {
+   "code": "LU",
+   "z": 1,
+   "datasets": 1125
+ },
+ {
+   "code": "LV",
+   "z": 1,
+   "datasets": 370
+ },
+ {
+   "code": "MD",
+   "z": 3,
+   "datasets": 3363
+ },
+ {
+   "code": "MK",
+   "z": 3,
+   "datasets": 696
+ },
+ {
+   "code": "MN",
+   "z": 3,
+   "datasets": 524
+ },
+ {
+   "code": "MX",
+   "z": 11,
+   "datasets": 4125
+ },
+ {
+   "code": "NC",
+   "z": 2,
+   "datasets": 6
+ },
+ {
+   "code": "NG",
+   "z": 2,
+   "datasets": 1975
+ },
+ {
+   "code": "NL",
+   "z": 17,
+   "datasets": 3846
+ },
+ {
+   "code": "NO",
+   "z": 6,
+   "datasets": 826
+ },
+ {
+   "code": "NZ",
+   "z": 7,
+   "datasets": 8944
+ },
+ {
+   "code": "PE",
+   "z": 2,
+   "datasets": 4600
+ },
+ {
+   "code": "PH",
+   "z": 2,
+   "datasets": 566
+ },
+ {
+   "code": "PK",
+   "z": 1,
+   "datasets": 129
+ },
+ {
+   "code": "PL",
+   "z": 1,
+   "datasets": 15
+ },
+ {
+   "code": "PR",
+   "z": 1,
+   "datasets": 95
+ },
+ {
+   "code": "PT",
+   "z": 12,
+   "datasets": 3797
+ },
+ {
+   "code": "PY",
+   "z": 3,
+   "datasets": 197
+ },
+ {
+   "code": "QA",
+   "z": 1,
+   "datasets": 137
+ },
+ {
+   "code": "RE",
+   "z": 1,
+   "datasets": 36
+ },
+ {
+   "code": "RO",
+   "z": 2,
+   "datasets": 3644
+ },
+ {
+   "code": "RS",
+   "z": 6,
+   "datasets": 848
+ },
+ {
+   "code": "RU",
+   "z": 13,
+   "datasets": 57792
+ },
+ {
+   "code": "SE",
+   "z": 5,
+   "datasets": 505
+ },
+ {
+   "code": "SG",
+   "z": 3,
+   "datasets": 4204
+ },
+ {
+   "code": "SI",
+   "z": 2,
+   "datasets": 9662
+ },
+ {
+   "code": "SK",
+   "z": 3,
+   "datasets": 4450
+ },
+ {
+   "code": "SL",
+   "z": 4,
+   "datasets": 636
+ },
+ {
+   "code": "SV",
+   "z": 2,
+   "datasets": 72
+ },
+ {
+   "code": "TH",
+   "z": 3,
+   "datasets": 5541
+ },
+ {
+   "code": "TN",
+   "z": 6,
+   "datasets": 2864
+ },
+ {
+   "code": "TT",
+   "z": 3,
+   "datasets": 77
+ },
+ {
+   "code": "TW",
+   "z": 12,
+   "datasets": 1690038
+ },
+ {
+   "code": "TZ",
+   "z": 5,
+   "datasets": 930
+ },
+ {
+   "code": "UA",
+   "z": 4,
+   "datasets": 61830
+ },
+ {
+   "code": "US",
+   "z": 1188,
+   "datasets": 3016778
+ },
+ {
+   "code": "ZA",
+   "z": 1,
+   "datasets": 137
+ }
+]
